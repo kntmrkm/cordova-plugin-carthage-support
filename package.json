@@ -1,5 +1,8 @@
 {
   "name": "cordova-plugin-carthage-support",
   "version": "0.0.1",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "semver": "^6.0.0",
+  },
 }
